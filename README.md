@@ -64,10 +64,6 @@ Chaque personnage a ses propres statistiques : dégâts d'attaque (AD), puissanc
 - **Dalia :** histoire, son
 - **Ismael :** idée du style de jeu, gameplay
 
-### Résultat
-
-Classé 25e sur 36 à la SD Gamejam 2026.
-
 ---
 
 ## 🇬🇧 English
@@ -129,7 +125,3 @@ Each character has their own stats: attack damage (AD), ability power (AP), armo
 - **Samia:** combat logic, art
 - **Dalia:** story, sound
 - **Ismael:** game style idea, gameplay
-
-### Result
-
-Ranked 25th out of 36 at the SD Gamejam 2026.
