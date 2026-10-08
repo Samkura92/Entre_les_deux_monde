@@ -1,0 +1,64 @@
+[gd_scene format=3 uid="uid://gt4rrmcjly2f"]
+
+[ext_resource type="Texture2D" uid="uid://bvifrrimqwntt" path="res://assets/persos/sonia.png" id="1_ir8iy"]
+[ext_resource type="Texture2D" uid="uid://c0qxhddnancnr" path="res://assets/persos/kayn.png" id="2_ir8iy"]
+[ext_resource type="Texture2D" uid="uid://c7h1aer66dnuw" path="res://assets/persos/samkura.png" id="3_ir8iy"]
+[ext_resource type="Texture2D" uid="uid://osdp1ct5iwsx" path="res://assets/persos/franck.png" id="4_ir8iy"]
+[ext_resource type="Texture2D" uid="uid://bfl0bkusjkf54" path="res://assets/persos/rebecca.png" id="5_ir8iy"]
+[ext_resource type="Texture2D" uid="uid://je8usvafypkq" path="res://assets/persos/yohan.png" id="6_ir8iy"]
+[ext_resource type="Texture2D" uid="uid://cuu5pdsi5o66m" path="res://assets/persos/dalia.png" id="7_ta5nu"]
+[ext_resource type="Texture2D" uid="uid://b6wy1s1dlbkd3" path="res://assets/persos/yuna.png" id="8_ir8iy"]
+[ext_resource type="Texture2D" uid="uid://dc5xdban788uj" path="res://assets/persos/cassie.png" id="9_ir8iy"]
+[ext_resource type="Texture2D" uid="uid://dd5lm6mmpo3yr" path="res://assets/persos/misa.png" id="10_ir8iy"]
+
+[node name="Node2D" type="Node2D" unique_id=158839844]
+
+[node name="Sonia" type="Sprite2D" parent="." unique_id=1240187978]
+position = Vector2(98, 84)
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("1_ir8iy")
+
+[node name="Kayn" type="Sprite2D" parent="." unique_id=2134578331]
+position = Vector2(98, 251.99998)
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("2_ir8iy")
+
+[node name="Samkura" type="Sprite2D" parent="." unique_id=1938535781]
+position = Vector2(194, 257)
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("3_ir8iy")
+
+[node name="Franck" type="Sprite2D" parent="." unique_id=77892447]
+position = Vector2(383, 86.00001)
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("4_ir8iy")
+
+[node name="Rebecca" type="Sprite2D" parent="." unique_id=1332928802]
+position = Vector2(396, 258)
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("5_ir8iy")
+
+[node name="Yohan" type="Sprite2D" parent="." unique_id=1882640104]
+position = Vector2(495, 88)
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("6_ir8iy")
+
+[node name="Dalia" type="Sprite2D" parent="." unique_id=1504430055]
+position = Vector2(284, 84.000015)
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("7_ta5nu")
+
+[node name="Yuna" type="Sprite2D" parent="." unique_id=696455650]
+position = Vector2(195.00003, 87.00001)
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("8_ir8iy")
+
+[node name="Cassie" type="Sprite2D" parent="." unique_id=1600648611]
+position = Vector2(292, 262)
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("9_ir8iy")
+
+[node name="Misa" type="Sprite2D" parent="." unique_id=1216378231]
+position = Vector2(497, 254)
+scale = Vector2(0.4, 0.4)
+texture = ExtResource("10_ir8iy")

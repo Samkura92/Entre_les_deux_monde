@@ -1,0 +1,6 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Exports du jeu (trop lourds pour GitHub)
+build/
