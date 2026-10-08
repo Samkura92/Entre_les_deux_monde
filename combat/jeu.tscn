@@ -1,6 +1,0 @@
-[gd_scene format=3 uid="uid://biwasjgsl6nal"]
-
-[ext_resource type="Script" uid="uid://sclv6b3hhd07" path="res://combat/jeu.gd" id="1"]
-
-[node name="Jeu" type="Node2D" unique_id=742508883]
-script = ExtResource("1")

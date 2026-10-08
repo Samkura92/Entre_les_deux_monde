@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://ed5wmbqyl8jk"]
+
+[ext_resource type="AudioStream" uid="uid://bt4vcn1hklbqr" path="res://assets/musiques/menu.ogg" id="1_qpshs"]
+[ext_resource type="Script" uid="uid://dcsdij46nncjf" path="res://scripts/musique.gd" id="2_3ftvc"]
+[ext_resource type="AudioStream" uid="uid://cvf2dedxj3ks2" path="res://assets/musiques/des.ogg" id="2_fft13"]
+[ext_resource type="AudioStream" uid="uid://i3lv3pqlobhb" path="res://assets/musiques/combat.ogg" id="3_3ftvc"]
+
+[node name="Musique" type="AudioStreamPlayer" unique_id=76631249]
+stream = ExtResource("1_qpshs")
+script = ExtResource("2_3ftvc")
+
+[node name="Des" type="AudioStreamPlayer" parent="." unique_id=260058510]
+stream = ExtResource("2_fft13")
+
+[node name="Combat" type="AudioStreamPlayer" parent="." unique_id=631058999]
+stream = ExtResource("3_3ftvc")
